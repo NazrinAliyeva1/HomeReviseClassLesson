@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|c:\\users\\99455\\source\\repos\\oyrennme-adonet\\oyrennme-adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\oyrennme-adonet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\oyrennme-adonet\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\oyrennme-adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\oyrennme-adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\oyrennme-adonet\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\oyrennme-adonet\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\oyrennme-adonet\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\oyrennme-adonet\\helpers\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\helpers\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\oyrennme-adonet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\oyrennme-adonet\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3BBB47-51B2-4712-9B5A-FD690D880F8A}|Oyrennme-AdoNet\\Oyrennme-AdoNet.csproj|solutionrelative:oyrennme-adonet\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Form1.cs",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Form1.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Form1.cs",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:58:21.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Form1.resx",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Form1.resx",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Form1.resx",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-06T05:45:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Helpers\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Helpers\\SqlHelper.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Helpers\\SqlHelper.cs",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Helpers\\SqlHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:54:39.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Register.cs",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Register.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Register.cs",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Register.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:32:48.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Register.cs",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Register.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Register.cs [Design]",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:13:18.537Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Login.cs",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Login.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Login.cs",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Login.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA5wCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:15:54.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Program.cs",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Program.cs",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:58:03.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Login.cs",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Login.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Login.cs [Design]",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:35:19.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Form1.cs",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Form1.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Form1.cs [Design]",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:56:34.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Login.Designer.cs",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Login.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:53:07.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Oyrennme-AdoNet\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Oyrennme-AdoNet\\Oyrennme-AdoNet\\Form1.Designer.cs",
+              "RelativeToolTip": "Oyrennme-AdoNet\\Form1.Designer.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAYwB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:58:05.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
